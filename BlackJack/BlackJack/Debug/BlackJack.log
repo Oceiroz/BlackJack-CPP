@@ -1,0 +1,4 @@
+﻿  BlackJack.cpp
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\BlackJack\BlackJack.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\BlackJack\BlackJack.cpp(83,23): warning C4018: '>': signed/unsigned mismatch
+  BlackJack.vcxproj -> C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\BlackJack\Debug\BlackJack.exe
